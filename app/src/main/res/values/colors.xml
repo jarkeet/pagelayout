@@ -2,4 +2,10 @@
 <resources>
     <color name="color_loading_status">#FFCCCCCC</color>
     <color name="main_bg">#FF2D84C2</color>
+
+    <color name="colorPrimary">#ff662c</color>
+    <color name="colorPrimaryDark">#ff662c</color>
+    <color name="colorAccent">#ff662c</color>
+    <color name="blink_color">#b1b1b1</color>
+    <color name="shimmer_color">#a2878787</color>
 </resources>
